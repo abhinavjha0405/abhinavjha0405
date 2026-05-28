@@ -39,7 +39,7 @@ Stack: Node.js · Express · MongoDB · Cloudinary
 
 ## What I'm currently doing
 
-- Finishing my B.Tech (class of 2023)
+
 - Building the lawyer marketplace MVP (8–10 week timeline)
 - Learning more about agentic AI systems and real-time infra
 
