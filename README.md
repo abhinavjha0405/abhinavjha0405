@@ -57,34 +57,34 @@ YouTube-style backend built as a deep-dive into auth, media handling, and scalab
 
 ---
 
-## 📊 GitHub stats
+## ⚡ What I'm building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavjha0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjha0405&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-</p>
-
-
+| Project | Stack | Status |
+|---|---|---|
+| Lawyer Marketplace | Next.js · Fastify · Supabase · Razorpay | 🔨 In progress |
+| Real Estate AI | GPT-4o · Pinecone · FastAPI | ✅ Built |
+| AI Voice Agent | VAPI · Gemini · n8n | ✅ Built |
+| Video Streaming App | Node.js · Express · MongoDB | ✅ Built |
 
 
   
-  
-
-
-
-
-
-
   
 
 
 
 
----
+
+
+  
 
 
 
----
+
+
+
+
+
+
 
 ## 📬 Let's work together
 
