@@ -62,9 +62,10 @@ YouTube-style backend built as a deep-dive into auth, media handling, and scalab
 | Project | Stack | Status |
 |---|---|---|
 | Lawyer Marketplace | Next.js · Fastify · Supabase · Razorpay | 🔨 In progress |
-| Real Estate AI | GPT-4o · Pinecone · FastAPI | ✅ Built |
-| AI Voice Agent | VAPI · Gemini · n8n | ✅ Built |
-| Video Streaming App | Node.js · Express · MongoDB | ✅ Built |
+| AI Shorts Generator | Python · FFmpeg · OpenAI · Next.js | 🔨 In progress |
+| AI Tutor (RAG) | LangChain · Pinecone · GPT-4o · Next.js | 🔨 In progress |
+| Full Stack Chat App | Next.js · Node.js · Socket.io · MongoDB | 🔨 In progress |
+| Dogstudio Clone | Next.js · Three.js · GSAP · Framer Motion | 🔨 In progress |
 
 
   
